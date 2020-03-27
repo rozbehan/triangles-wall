@@ -1,5 +1,5 @@
 # Algorithm problem
-Input: A wall and a few number of segments (between 5 and 9) with different lengths
+Input: A wall and a few number of segments (between 5 and 9) with different lengths\
 Start the game by placing a segment along the wall. Make the triangles by placing the rest of the segments so that the farthest vertex of the triangles gets the maximum possible distance from the wall.
 
 1. I have tried on a binary tree instead of triangle-mesh, based on duality. 
